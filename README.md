@@ -1,10 +1,10 @@
 <h1 align="center">📝 Software QA Training Space 📈</h1>
 
-<p>Here, I document my training in the following tools:</p>
+<p>Here, I document my training in the following areas:</p>
 
 <p>
   <b>
-
+  <li>Manual QA</li>
   <li>Playwright</li>
   <li>Jira</li>
   <li>TestRail</li>
