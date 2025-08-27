@@ -2,8 +2,8 @@
 
 <p>Here, I document my training in the following tools:</p>
 
-<p style="bold">
-  <li>Playwright</li>
+<p>
+  <li><b>Playwright<b></li>
   <li>Jira</li>
   <li>TestRail</li>
   <li>Postman</li>
