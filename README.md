@@ -1,6 +1,6 @@
 <h1 align="center"> Software QA Training Space </h1>
 
-<h3>Here, I train in the following tools:</h3>
+<p>Here, I train in the following tools:</p>
 
 <p>
   <li>Playwright</li>
