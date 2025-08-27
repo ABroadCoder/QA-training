@@ -1,4 +1,4 @@
-<h1 align="center"> Software QA Training Space </h1>
+<h1 align="center">📝 Software QA Training Space 📈</h1>
 
 <p>Here, I document my training in the following tools:</p>
 
